@@ -1,0 +1,1 @@
+1.	sqlite> INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("column_1 data", 3, " column_3 data");
